@@ -28,3 +28,55 @@ Durante ambos bloques trabajaremos en una actividad de ejercitación que será e
 - Tambien puede enviarme un link en github si está publico o me concede acceso.
 
 ---
+
+## Guía: Acceso y edición del repositorio
+
+Para el trabajo en la sesión, se recomienda trabajar en una copia personal de este repositorio. Para esto, recomiendo crear un "fork" en tu propia cuenta de github (esto para poder editarlo facilmente y también poder actualizarlo facilmente).
+
+1. Log in (o registrarse) en [https://github.com](https://github.com)
+2. Entrar al repositorio del curso [https://github.com/melanieoyarzun/taller_seriestiempo_IDS](https://github.com/melanieoyarzun/taller_seriestiempo_IDS)
+3. Realizar un fork 
+   
+![asi](img/1-fork_repo.png)
+
+### opcion 1: Clonar directamente en su equipo y trabajar desde ahi
+
+4. Desde **TU repositorio** Fork, usa la pestaña code para tener acceso directamente a los archivos de la carpeta y editarlos localmente (decsargar .zip) o abrir con github desktop
+
+![asi](img/2-clone_repo.png)
+
+Luego trabaja con tu editor de confianza. Yo uso VScode.
+
+Tambien puedes correrlo en la web usando .
+
+### opción 2: Acceder al repositorio desde Google Colab
+
+4. Desde tu Fork, usa la pestaña code para tener acceso directamente al link del repositorio
+
+![](img/3-clone_repo_colab.png)
+
+
+5. Logueado en tu cuenta google, entra a [https://colab.research.google.com/github](https://colab.research.google.com/github) y peqga la url del repositorio y haz click en incluir repositorios privados
+
+
+![](img/4-abrir_repos_colab.png)
+
+6. Elige el notebook correcto y tendras acceso al que desees
+
+![](img/5-elegir_note_colab.png)
+
+7. Para guardar cambios, puedes hacerlo en tu git, o una copia en drive.
+
+![](img/6-guardar_colab.png)
+
+8. Trabaja y ejecuta como de costumbre
+
+![](img/7-ejecutar_colab.png)
+
+NOTAS de trabajar en Colab:
+
+Muchas veces los accesos directos a dependencias de carpeta puede que no funcionen, asi que es imporotante tenerlos alojados en sitios web o subir mientras se trabaja. 
+
+Si usas librerías no estándar, necesitarás instalarlas para poder usarlas.
+
+En nuestro caso ambas consideraciones no son relevantes, pues usaremos datos simulados, desde la libreria Seaborn o cargados en github.
