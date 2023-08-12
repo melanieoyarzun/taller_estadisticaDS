@@ -39,7 +39,7 @@ Para el trabajo en la sesión, se recomienda trabajar en una copia personal de e
    
 ![asi](img/1-fork_repo.png)
 
-### opcion 1: Clonar directamente en su equipo y trabajar desde ahi
+### opción 1: Clonar directamente en su equipo y trabajar desde ahi
 
 4. Desde **TU repositorio** Fork, usa la pestaña code para tener acceso directamente a los archivos de la carpeta y editarlos localmente (decsargar .zip) o abrir con github desktop
 
@@ -47,7 +47,7 @@ Para el trabajo en la sesión, se recomienda trabajar en una copia personal de e
 
 Luego trabaja con tu editor de confianza. Yo uso VScode.
 
-Tambien puedes correrlo en la web usando .
+También puedes correrlo en la web usando .
 
 ### opción 2: Acceder al repositorio desde Google Colab
 
