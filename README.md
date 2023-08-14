@@ -6,7 +6,7 @@ E-Mail: moyarzunw@udd.cl
 
 Fecha: 12 agosto 2023
 
-Link a [grabación en video de la clase](https://replay.dropbox.com/share/s35pBO98PLeNo82M)** 
+Link a [grabación en video de la clase](https://replay.dropbox.com/share/s35pBO98PLeNo82M)
 
 Este es un repositorio complementario con material de apoyo para taller de Estadística para Data Science
 
