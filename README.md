@@ -6,6 +6,9 @@ E-Mail: moyarzunw@udd.cl
 
 Fecha: 12 agosto 2023
 
+**- Link a grabación en video de la clase: https://replay.dropbox.com/share/s35pBO98PLeNo82M** 
+
+
 Repositorio complementario con material de apoyo para taller de Estadística para Data Science
 
 ## Generalidades
@@ -16,6 +19,7 @@ El taller se divide en dos bloques, cada uno tiene un notebook que lo acompaña.
 - El primer bloque revisaremos conceptos claves de la estadística y su aplicación concreta en análisis exploratorio de datos. [Link Notebook bloque 1](bloque1-tallerSTASIDS_EDA.ipynb)
 
 - En el segundo bloque revisaremos conceptos asociados a la inferencia estadística y su aplicación en pruebas de hipotesis y experimentos aleatorios. [Link Notebook bloque 2](bloque2-tallerSTATSIDS_inferencia.ipynb)
+
 
 ### Evaluación
 
